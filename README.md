@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dessy,
 
-🎧 **Audio Engineer | Audio developer | JUCE | C/C++ Developer | DSP & Embedded Systems Enthusiast**
+**Audio Engineer | Audio developer | JUCE | C/C++ Developer | DSP & Embedded Systems Enthusiast**
 
 I’m an **audio engineer, developer, and digital nomad** passionate about all kinds of audio technologies.  
 I build **audio plugins**, explore **DSP**, and share what I learn along the way.  
