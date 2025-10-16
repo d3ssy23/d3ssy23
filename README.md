@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @d3ssy23
-- 👀 I’m a C/C++ developper, with main passion in DSP and Audio Developement and embedded systems.
-- 🌱 I’m currently learning JUCE Framework ^-^
-- 💞️ I’m looking to collaborate on cool idea, have a brainstorm session,so to say any kind creative and interesting technical geeky connections.
-- 📫 How to reach me, there's linkedin profile in bio.
-- 😄 Pronouns: Dessy
+# 👋 Hey, I'm Dessy (@d3ssy23)
 
+🎧 **Audio Engineer | JUCE audio developer | C/C++ Developer | DSP & Embedded Systems Enthusiast**
+
+---
+
+### 🎶 About Me
+I’m an **audio engineer, developer, and digital nomad** passionate about all kinds of audio technologies.  
+I build **audio tools**, explore **DSP**, and share what I learn along the way.  
+
+---
+
+### 🧠 What I’m Into
+- 🎛 **Audio Plugin Development** - JUCE Framework, C/C++  
+- 🔊 **DSP Experiments** - filters, synthesis, effects, and spatial audio  
+- 🌍 **Creative Collaboration** - exchanging ideas, brainstorming, and building cool audio tools together  
+
+---
+
+### 🚀 Current Focus
+- Deepening my knowledge of **JUCE** and **modern C++**  
+- Developing **open-source audio utilities** for developers and musicians
+- Making articles for my audio platform website
+
+---
+
+### Future Focus
+- ⚙️ **Embedded Systems** — real-time audio on microcontrollers and SoCs  
+
+---
+
+### 🤝 Let’s Connect
+If you’re into **audio development**, **sound design**, or **plugin creation**, I’d love to connect — whether it’s for a collaboration, a project, or just to chat about sound and code.  
+
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/desislava-ilieva-482747158/).  
+ 
 
 <!---
 - ⚡ Fun fact: 
